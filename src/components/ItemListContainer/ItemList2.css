@@ -1,0 +1,10 @@
+.ItemList2 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    border: solid 5px  #8c8d8f;
+}
+.Box {
+    background-color: white;
+    border: solid 5px   #8c8d8f;
+    
+}
